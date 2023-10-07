@@ -35,5 +35,5 @@ make start
 If you want to run without Docker:
 
 ```bash
-go run .
+go run ./cmd/
 ```
