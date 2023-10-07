@@ -1,0 +1,11 @@
+{
+  "server": ":8080",
+  "secret": "e286d660-89fe-445b-966b-e393f8b35de5",
+  "db": {
+    "driver": "postgres",
+    "name": "bank",
+    "port": 5432,
+    "user": "postgres",
+    "password": "postgres"
+  }
+}
